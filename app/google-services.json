@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1036072210028",
+    "project_id": "coding-made-easy-e0556",
+    "storage_bucket": "coding-made-easy-e0556.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036072210028:android:c02b5453ca311491711249",
+        "android_client_info": {
+          "package_name": "com.example.coding_made_easy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5nZPfo4k6KlrSMM13GDUEmlwrgQtOSsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
